@@ -20,7 +20,7 @@ Jinja2==2.11.2
 joblib==0.16.0
 jsonify==0.5
 Keras==2.4.3
-lxml==4.5.2
+lxml==4.6.3
 MarkupSafe==1.1.1
 numpy==1.19.1
 parsel==1.6.0
